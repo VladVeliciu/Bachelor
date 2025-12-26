@@ -20,7 +20,7 @@ The system is built around an **ATmega64A microcontroller embedded on a custom 4
 - ATmega64A, ESP-12E Wi-Fi module
 - RS-485 with optocouplers
 - Fuzzy logic (Takagi-Sugeno)
-- PCB: 4 layers, mixed-signal separation & isolation
+- PCB: 4 layers, mixed-signal & isolation
 
 ## Repository contents
 - PCB schematics & Gerber files
