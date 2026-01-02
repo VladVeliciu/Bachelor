@@ -39,3 +39,6 @@ The system is built around an **ATmega64A microcontroller embedded on a custom 4
 This is my BSc thesis developed in 2024 at UTCN.
 Please do not copy or submit this work as your own.
 Referencing this repository is allowed.
+Native CAD and simulation project files (e.g. Proteus, PSIM) as well as manufacturing files
+(Gerbers, pick-and-place) are intentionally not included.
+
